@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/BlankView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/ColorBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/ColorDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/ColorSelectAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/EraserDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/EraserSelectAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/EraserType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/MyApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/PaintTypeDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/PaintTypeSelectAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/PaintUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/blankboard/ShakeListener.java" charset="UTF-8" />
+  </component>
+</project>
